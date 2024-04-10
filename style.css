@@ -1,0 +1,44 @@
+#tete {
+    background-color: gray;
+    text-decoration: none;
+  }
+  .navigation {
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 30px;
+  }
+  .vraititre {
+    text-align: center;
+    padding-left: 50px;
+    text-decoration: underline;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  #presentation {
+    border: 1px solid;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+  #resto {
+    padding-left: 200px;
+  }
+  #tetetb {
+    background-color: gray;
+  }
+  ul {
+    list-style: none;
+  }
+  form {
+    padding-left: 200px;
+  }
+  footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+  }
